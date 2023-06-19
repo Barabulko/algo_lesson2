@@ -1,0 +1,15 @@
+C:\Users\DNS-PC\Desktop\Ванино\обучение\programmer\algo\lesson2\quicksort\obj\Debug\net6.0\quicksort.csproj.AssemblyReference.cache
+C:\Users\DNS-PC\Desktop\Ванино\обучение\programmer\algo\lesson2\quicksort\obj\Debug\net6.0\quicksort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DNS-PC\Desktop\Ванино\обучение\programmer\algo\lesson2\quicksort\obj\Debug\net6.0\quicksort.AssemblyInfoInputs.cache
+C:\Users\DNS-PC\Desktop\Ванино\обучение\programmer\algo\lesson2\quicksort\obj\Debug\net6.0\quicksort.AssemblyInfo.cs
+C:\Users\DNS-PC\Desktop\Ванино\обучение\programmer\algo\lesson2\quicksort\obj\Debug\net6.0\quicksort.csproj.CoreCompileInputs.cache
+C:\Users\DNS-PC\Desktop\Ванино\обучение\programmer\algo\lesson2\quicksort\bin\Debug\net6.0\quicksort.exe
+C:\Users\DNS-PC\Desktop\Ванино\обучение\programmer\algo\lesson2\quicksort\bin\Debug\net6.0\quicksort.deps.json
+C:\Users\DNS-PC\Desktop\Ванино\обучение\programmer\algo\lesson2\quicksort\bin\Debug\net6.0\quicksort.runtimeconfig.json
+C:\Users\DNS-PC\Desktop\Ванино\обучение\programmer\algo\lesson2\quicksort\bin\Debug\net6.0\quicksort.dll
+C:\Users\DNS-PC\Desktop\Ванино\обучение\programmer\algo\lesson2\quicksort\bin\Debug\net6.0\quicksort.pdb
+C:\Users\DNS-PC\Desktop\Ванино\обучение\programmer\algo\lesson2\quicksort\obj\Debug\net6.0\quicksort.dll
+C:\Users\DNS-PC\Desktop\Ванино\обучение\programmer\algo\lesson2\quicksort\obj\Debug\net6.0\refint\quicksort.dll
+C:\Users\DNS-PC\Desktop\Ванино\обучение\programmer\algo\lesson2\quicksort\obj\Debug\net6.0\quicksort.pdb
+C:\Users\DNS-PC\Desktop\Ванино\обучение\programmer\algo\lesson2\quicksort\obj\Debug\net6.0\quicksort.genruntimeconfig.cache
+C:\Users\DNS-PC\Desktop\Ванино\обучение\programmer\algo\lesson2\quicksort\obj\Debug\net6.0\ref\quicksort.dll

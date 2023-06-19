@@ -1,0 +1,15 @@
+C:\Users\DNS-PC\Desktop\Ванино\обучение\programmer\algo\lesson2\heapsort\obj\Debug\net6.0\heapsort.csproj.AssemblyReference.cache
+C:\Users\DNS-PC\Desktop\Ванино\обучение\programmer\algo\lesson2\heapsort\obj\Debug\net6.0\heapsort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DNS-PC\Desktop\Ванино\обучение\programmer\algo\lesson2\heapsort\obj\Debug\net6.0\heapsort.AssemblyInfoInputs.cache
+C:\Users\DNS-PC\Desktop\Ванино\обучение\programmer\algo\lesson2\heapsort\obj\Debug\net6.0\heapsort.AssemblyInfo.cs
+C:\Users\DNS-PC\Desktop\Ванино\обучение\programmer\algo\lesson2\heapsort\obj\Debug\net6.0\heapsort.csproj.CoreCompileInputs.cache
+C:\Users\DNS-PC\Desktop\Ванино\обучение\programmer\algo\lesson2\heapsort\bin\Debug\net6.0\heapsort.exe
+C:\Users\DNS-PC\Desktop\Ванино\обучение\programmer\algo\lesson2\heapsort\bin\Debug\net6.0\heapsort.deps.json
+C:\Users\DNS-PC\Desktop\Ванино\обучение\programmer\algo\lesson2\heapsort\bin\Debug\net6.0\heapsort.runtimeconfig.json
+C:\Users\DNS-PC\Desktop\Ванино\обучение\programmer\algo\lesson2\heapsort\bin\Debug\net6.0\heapsort.dll
+C:\Users\DNS-PC\Desktop\Ванино\обучение\programmer\algo\lesson2\heapsort\bin\Debug\net6.0\heapsort.pdb
+C:\Users\DNS-PC\Desktop\Ванино\обучение\programmer\algo\lesson2\heapsort\obj\Debug\net6.0\heapsort.dll
+C:\Users\DNS-PC\Desktop\Ванино\обучение\programmer\algo\lesson2\heapsort\obj\Debug\net6.0\refint\heapsort.dll
+C:\Users\DNS-PC\Desktop\Ванино\обучение\programmer\algo\lesson2\heapsort\obj\Debug\net6.0\heapsort.pdb
+C:\Users\DNS-PC\Desktop\Ванино\обучение\programmer\algo\lesson2\heapsort\obj\Debug\net6.0\heapsort.genruntimeconfig.cache
+C:\Users\DNS-PC\Desktop\Ванино\обучение\programmer\algo\lesson2\heapsort\obj\Debug\net6.0\ref\heapsort.dll
